@@ -1,15 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.925f743e.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "main.css": "/static/css/main.fd46bb67.css",
+    "main.js": "/static/js/main.97b696c9.js",
+    "static/media/koinoike_style_guide.pdf": "/static/media/koinoike_style_guide.4299c03b91b3692c029e.pdf",
+    "static/media/me_about.png": "/static/media/me_about.3c86233bf8857bf5d01b.png",
+    "static/media/cineats_cover.png": "/static/media/cineats_cover.9f1713d56007db3c0050.png",
+    "static/media/slalom_cover.png": "/static/media/slalom_cover.5c10c099e560e5cf79f6.png",
+    "static/media/glansis-hero.png": "/static/media/glansis-hero.88bb4406c96949785e84.png",
+    "static/media/quizine_cover.png": "/static/media/quizine_cover.8a9d9d22610c32ed832b.png",
+    "static/media/cookge.png": "/static/media/cookge.b2dd2b2a0059bd7b3c4e.png",
+    "static/media/posters.png": "/static/media/posters.e393aff41dc0cc47ba32.png",
+    "static/media/phoemale_cover.png": "/static/media/phoemale_cover.08926824bdadb229657c.png",
+    "static/media/resume.pdf": "/static/media/resume.3345a9483baa97ac9a78.pdf",
+    "static/media/fun_facts.png": "/static/media/fun_facts.32b0cb96c10040940130.png",
+    "static/media/glansis.png": "/static/media/glansis.a59af3f45b3db45716db.png",
+    "static/media/koinoike.png": "/static/media/koinoike.ad67bd7a47031cc307c6.png",
+    "static/media/cineats.png": "/static/media/cineats.f704dac3a27fcf5ebe20.png",
+    "static/media/slalom.png": "/static/media/slalom.5ff300081503411fbc4b.png",
+    "static/media/quizine.png": "/static/media/quizine.d8a4f768f4b2857c1b33.png",
+    "static/media/phoemale.png": "/static/media/phoemale.8a72d2d5d911aed5af49.png",
+    "static/media/me_home_page.png": "/static/media/me_home_page.ab565de777a4b223f946.png",
+    "static/media/material-icons-outlined.woff": "/static/media/material-icons-outlined.f882956fd323fd322f31.woff",
+    "static/media/material-icons-outlined.woff2": "/static/media/material-icons-outlined.6f420cf17cc0d7676fad.woff2",
+    "static/media/my_portfolio.png": "/static/media/my_portfolio.0be7da05b919df833167.png",
+    "static/media/koi_logo.png": "/static/media/koi_logo.5b8609a5f1adee729208.png",
+    "static/media/maiara.png": "/static/media/maiara.7d4c5cd6febd1ca24491.png",
+    "static/media/sticker.svg": "/static/media/sticker.ea45b3f3a21e19e47ae1fc96111bfaa6.svg",
+    "static/media/fun_sticker.svg": "/static/media/fun_sticker.47f48c5f4bdabea2473a5092596afe3a.svg",
+    "static/media/alternative-logo.svg": "/static/media/alternative-logo.8708a1c9f8749cf2807efb36bd15a6d0.svg",
+    "static/media/keyboard_arrow_down.svg": "/static/media/keyboard_arrow_down.df271e840d0170f1e0b3a9f18bf15f42.svg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.925f743e.js.map": "/static/js/main.925f743e.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.fd46bb67.css.map": "/static/css/main.fd46bb67.css.map",
+    "main.97b696c9.js.map": "/static/js/main.97b696c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.925f743e.js"
+    "static/css/main.fd46bb67.css",
+    "static/js/main.97b696c9.js"
   ]
 }
