@@ -1,4 +1,4 @@
-import alternativeLogo from "./images/alternative-logo.svg";
+import Logo from "./images/Logo_Tulip.svg";
 import React from "react";
 import CustomLink from "./CustomLink";
 
@@ -13,18 +13,18 @@ export default function Navbar() {
 
   return (
     <nav className={small ? "nav small" : "nav"}>
-      <a className="logo-link" href="/">
+      {/* <a className="logo-link" href="/">
         <img
           id="logo"
-          src={alternativeLogo}
+          src={Logo}
           className={small ? "logo-small" : "logo"}
           alt="logo"
         />
-      </a>
+      </a> */}
       <ul>
-        <CustomLink href="/">Home</CustomLink>
-        <CustomLink href="/about">About</CustomLink>
-        <CustomLink href="/fun">Fun</CustomLink>
+        <CustomLink href="/">work</CustomLink>
+        <CustomLink href="/about">about</CustomLink>
+        <CustomLink href="/extra">extra</CustomLink>
       </ul>
     </nav>
   );

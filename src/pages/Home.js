@@ -10,7 +10,7 @@ import portfolio from "../images/my_portfolio.png";
 import sticker from "../images/sticker.svg";
 import arrow_down from "../images/keyboard_arrow_down.svg";
 import me from "../images/me_home_page.png";
-import maiara from "../images/maiara.png";
+import Logo from "../images/Logo_Tulip.svg";
 
 import "material-icons/iconfont/outlined.css";
 
@@ -18,6 +18,7 @@ const filters = ["Design", "Coding", "Internship", "Academic"];
 const projects = [
   {
     id: "glansis",
+    name: "Glansis - NOAA",
     imageSrc: glansis,
     link: "/glansis",
     tags: ["All", "Design", "Academic"],
@@ -29,6 +30,7 @@ const projects = [
 
   {
     id: "quizine",
+    name: "Quizine Trivia",
     imageSrc: quizine,
     link: "/quizine",
     tags: ["All", "Design", "Coding", "Academic"],
@@ -39,6 +41,7 @@ const projects = [
   },
   {
     id: "slalom",
+    name: "Slalom",
     imageSrc: slalom,
     link: "/slalom",
     tags: ["All", "Design", "Internship"],
@@ -49,6 +52,7 @@ const projects = [
   },
   {
     id: "portfolio",
+    name: "UX Portfolio",
     imageSrc: portfolio,
     link: "/portfolio",
     tags: ["All", "Coding"],
@@ -59,6 +63,7 @@ const projects = [
   },
   {
     id: "phoemale",
+    name: "Slalom - Phoemale",
     imageSrc: phoemale,
     link: "/phoemale",
     tags: ["All", "Design", "Internship"],
@@ -69,6 +74,7 @@ const projects = [
   },
   {
     id: "cineats",
+    name: "Grow with Google",
     imageSrc: cineats,
     link: "/cineats",
     tags: ["All", "Design", "Academic"],
@@ -97,54 +103,36 @@ export default function Home() {
         <section className="section-1">
           <Navbar />
           <div className="container">
-            <h1 className="align-center">
-              <img src={maiara} id="maiara" />
+            <img src={Logo} />
+            <h1 className="maia-light-pink h1-semibold">
+              Hey, I'm <span className="maia-pink">Maia.</span> <br />
+              I’m an <span className="maia-pink">experience designer</span>
             </h1>
-            <h2 className="h2-medium grey align-center">
-              UX design student @ UMich
-            </h2>
-
-            {visible && (
-              <div className="surprise-container">
-                <div className="image-container">
-                  <img
-                    id="img-1"
-                    src={me}
-                    alt="woman making a surprise and smile face with hands on the face"
-                  />
-                </div>
-                <h3 className="surprise-text highlighter-green">
-                  {" "}
-                  graduating Spring 2025!
-                </h3>
-              </div>
-            )}
+            <div></div>
+            <h2 className="h2-small grey">who loves to travel and paint</h2>
           </div>
           <div className="fixed-center-bottom moveUpAndDown">
             <a href="#projects">
-              <img src={arrow_down} alt="arrow pointing down" />
+              {/* <img src={arrow_down} alt="arrow pointing down" /> */}
+              <span className="maia-light-pink small-font">scroll down</span>
             </a>
-          </div>
-          <div id="sticker" className="fixed-right-bottom">
-            <img
-              src={sticker}
-              onClick={showHidden}
-              alt="sticker with a black flower that says click to see a surprise"
-            />
           </div>
         </section>
 
         <section className="section-2">
           <div className="selected-projects">
-            <h2 className="h1-semibold grey" id="projects">
+            <h2
+              className="h1-semibold maia-light-pink inline-margin-large"
+              id="projects"
+            >
               Selected Projects.
             </h2>
-            <div className="filter-bar-container">
+            <div className="filter-bar-container inline-margin-large">
               <div className="chips-container">
                 {filters.map((filter) => {
                   return (
                     <button
-                      className="chip"
+                      className="chip grey"
                       onClick={() => {
                         if (selectedFilters.includes(filter)) {
                           const index = selectedFilters.indexOf(filter);
@@ -187,10 +175,23 @@ export default function Home() {
                 return (
                   <div className="project-card">
                     <a href={project.link}>
-                      <img src={project.imageSrc} style={{ width: "100%" }} />
+                      <img
+                        src={project.imageSrc}
+                        style={{ width: "100%" }}
+                        className="card-img"
+                      />
                     </a>
                     <div className="card-body">
-                      <h3 id={project.id} className="very-small-uppercase ">
+                      <p
+                        id={`${project.id}-name`}
+                        className="very-small-uppercase maia-light-pink remove-margin margin-bottom-tiny"
+                      >
+                        <a href={project.link}>{project.name}</a>
+                      </p>
+                      <h3
+                        id={project.id}
+                        className="very-small-regular margin-bottom-tiny"
+                      >
                         <a href={project.link}>{project.title} </a>
                       </h3>
                       <h4

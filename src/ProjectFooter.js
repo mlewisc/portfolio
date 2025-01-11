@@ -23,7 +23,7 @@ export default function ProjectFooter() {
           <p className="very-small-uppercase grey">
             © 2024 Maia Lewis Cipriano
           </p>
-          <p>Designed and coded with 🖤 by me</p>
+          <p>Designed and developed by me 🌷</p>
         </div>
       </div>
     </footer>

@@ -1,7 +1,7 @@
 import "./style.css";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Fun from "./pages/Fun";
+import Extra from "./pages/Extra";
 import Quizine from "./pages/Quizine";
 import Cineats from "./pages/Cineats";
 import Phoemale from "./pages/Phoemale";
@@ -19,8 +19,8 @@ function App() {
     case "/about":
       component = <About />;
       break;
-    case "/fun":
-      component = <Fun />;
+    case "/extra":
+      component = <Extra />;
       break;
     case "/quizine":
       component = <Quizine />;
