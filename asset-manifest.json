@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.513f883b.css",
-    "main.js": "/static/js/main.c3c0cd16.js",
+    "main.js": "/static/js/main.ea5b6e0b.js",
     "static/media/glansis_homepage.mov": "/static/media/glansis_homepage.c6061d7e16e0a196faaa.mov",
     "static/media/quizine_laptop.mov": "/static/media/quizine_laptop.3320306fb91db51e8cb8.mov",
     "static/media/cineats_prototype.mov": "/static/media/cineats_prototype.a226cc7f36a87464ec1e.mov",
@@ -29,10 +29,10 @@
     "static/media/cookge.png": "/static/media/cookge.b2dd2b2a0059bd7b3c4e.png",
     "static/media/posters.png": "/static/media/posters.e393aff41dc0cc47ba32.png",
     "static/media/phoemale_cover.png": "/static/media/phoemale_cover.08926824bdadb229657c.png",
-    "static/media/resume.pdf": "/static/media/resume.3345a9483baa97ac9a78.pdf",
     "static/media/nomiform.gif": "/static/media/nomiform.6fd38e66314e9f140c59.gif",
     "static/media/nomipage.png": "/static/media/nomipage.1393370c821df7686b5e.png",
     "static/media/me_about.png": "/static/media/me_about.36b299ccd2619b3ea742.png",
+    "static/media/new_resume.pdf": "/static/media/new_resume.64db0ca4d4b49baf8102.pdf",
     "static/media/cineats_lowfi.png": "/static/media/cineats_lowfi.0d133aea2a4f7212e5b4.png",
     "static/media/koinoike.png": "/static/media/koinoike.ad67bd7a47031cc307c6.png",
     "static/media/use1.png": "/static/media/use1.751644b764906da98dcd.png",
@@ -76,10 +76,10 @@
     "index.html": "/index.html",
     "static/media/problem.svg": "/static/media/problem.d0a2ff6f6907d4e827161d9ea2d8b19e.svg",
     "main.513f883b.css.map": "/static/css/main.513f883b.css.map",
-    "main.c3c0cd16.js.map": "/static/js/main.c3c0cd16.js.map"
+    "main.ea5b6e0b.js.map": "/static/js/main.ea5b6e0b.js.map"
   },
   "entrypoints": [
     "static/css/main.513f883b.css",
-    "static/js/main.c3c0cd16.js"
+    "static/js/main.ea5b6e0b.js"
   ]
 }
