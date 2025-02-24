@@ -1,4 +1,4 @@
-import resume from "../src/documents/resume.pdf";
+import resume from "../src/documents/new_resume.pdf";
 
 export default function ProjectFooter() {
   return (
