@@ -21,7 +21,7 @@ export default function ProjectFooter() {
         </div>
         <div className="stacked-right-container">
           <p className="very-small-uppercase grey">
-            © 2024 Maia Lewis Cipriano
+            © 2025 Maia Lewis Cipriano
           </p>
           <p>Designed and developed by me 🌷</p>
         </div>

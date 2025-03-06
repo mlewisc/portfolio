@@ -7,6 +7,7 @@ import phoemale from "../images/phoemale.png";
 import quizine from "../images/quizine.png";
 import cineats from "../images/cineats.png";
 import portfolio from "../images/my_portfolio.png";
+import keyshare from "../images/passivebolt.png";
 import sticker from "../images/sticker.svg";
 import arrow_down from "../images/keyboard_arrow_down.svg";
 import me from "../images/me_home_page.png";
@@ -17,12 +18,23 @@ import "material-icons/iconfont/outlined.css";
 const filters = ["Design", "Coding", "Internship", "Academic"];
 const projects = [
   {
+    id: "passivebolt",
+    name: "PassiveBolt - KeyShare",
+    imageSrc: keyshare,
+    link: "/passivebolt",
+    tags: ["All", "Design", "Academic"],
+    position: "UX Design Consultant",
+    title: "Fall 2024/Winter 2025 Project",
+    description:
+      "Securing access with decentralized identity powered by cryptographic trust",
+  },
+  {
     id: "glansis",
     name: "Glansis - NOAA",
     imageSrc: glansis,
     link: "/glansis",
     tags: ["All", "Design", "Academic"],
-    position: "UX Design Student",
+    position: "UX/UI Designer",
     title: "Fall 2023 Semester Project",
     description:
       "Redesigning GLANSIS database website tools to help improve the current experience of users looking for information on non-native species in the Great Lakes",
@@ -34,7 +46,7 @@ const projects = [
     imageSrc: quizine,
     link: "/quizine",
     tags: ["All", "Design", "Coding", "Academic"],
-    position: "App Development Student",
+    position: "UX Designer, Web Developer",
     title: "Winter 2024 Semester Project",
     description:
       "Ideating, designing, and coding a responsive trivia website, Quizine Trivia, that allows users to personalize their experience",
@@ -78,7 +90,7 @@ const projects = [
     imageSrc: cineats,
     link: "/cineats",
     tags: ["All", "Design", "Academic"],
-    position: "UX Design Student",
+    position: "UX Designer",
     title: "Summer 2021 Project",
     description:
       "Designing a movie the to help improve the people’s experience of going to the movies and ordering concession snacks",

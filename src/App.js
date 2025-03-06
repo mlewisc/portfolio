@@ -8,6 +8,7 @@ import Phoemale from "./pages/Phoemale";
 import Portfolio from "./pages/Portfolio";
 import Slalom from "./pages/Slalom";
 import Glansis from "./pages/Glansis";
+import PassiveBolt from "./pages/PassiveBolt";
 
 function App() {
   let component;
@@ -39,6 +40,9 @@ function App() {
       break;
     case "/cineats":
       component = <Cineats />;
+      break;
+    case "/passivebolt":
+      component = <PassiveBolt />;
       break;
   }
   return <>{component}</>;

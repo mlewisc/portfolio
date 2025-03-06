@@ -180,6 +180,12 @@ p {
   text-transform: uppercase;
 }
 
+.h2-bold {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 146.79%;
+}
+
 .h3-semibold {
   font-size: 2rem;
   font-weight: 600;
@@ -274,6 +280,17 @@ ol {
 
 .slalom-blue {
   color: #0c62fb;
+}
+
+.passivebolt-teal {
+  color: #02b59c;
+}
+
+.passivebolt-grey {
+  color: #595959;
+}
+.keyshare-blue {
+  color: #028599;
 }
 
 .phoemale-pink {
@@ -681,6 +698,15 @@ footer p {
 
 #quizine-hero {
   background-image: url(images/quizine_cover.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 0% 70%;
+  background-attachment: scroll;
+  background-color: #f8f8f8;
+}
+
+#keyshare-hero {
+  background-image: url(images/keyshare_hero.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 0% 70%;

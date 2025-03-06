@@ -104,9 +104,9 @@ export default function Quizine() {
                     className="body-regular"
                     style={{ marginBottom: "0.5rem" }}
                   >
-                    UX Design Student
+                    UX Designer
                   </p>
-                  <p className="body-regular">Web Dev Student</p>
+                  <p className="body-regular">Web Developer </p>
                 </div>
                 <div>
                   <h3 className="body-semibold-uppercase margin-bottom-small quizine-purple">
