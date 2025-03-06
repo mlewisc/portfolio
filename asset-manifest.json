@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.513f883b.css",
-    "main.js": "/static/js/main.ea5b6e0b.js",
+    "main.css": "/static/css/main.8fe95065.css",
+    "main.js": "/static/js/main.a07edf1b.js",
     "static/media/glansis_homepage.mov": "/static/media/glansis_homepage.c6061d7e16e0a196faaa.mov",
     "static/media/quizine_laptop.mov": "/static/media/quizine_laptop.3320306fb91db51e8cb8.mov",
     "static/media/cineats_prototype.mov": "/static/media/cineats_prototype.a226cc7f36a87464ec1e.mov",
@@ -12,6 +12,7 @@
     "static/media/glansis_example1.png": "/static/media/glansis_example1.b68b9ad44673877561f5.png",
     "static/media/glansis_example2.png": "/static/media/glansis_example2.0e8c368f839057fe5995.png",
     "static/media/glansis_wireframes-1.png": "/static/media/glansis_wireframes-1.29243bf9675e1778cb4a.png",
+    "static/media/keyshare_hero.png": "/static/media/keyshare_hero.279d08b6b8345cdc3acc.png",
     "static/media/Cover.png": "/static/media/Cover.4470ed7ab62fc62f2ce6.png",
     "static/media/phoemale_flow.gif": "/static/media/phoemale_flow.a2c82c48b7f0485185f3.gif",
     "static/media/style_guide.png": "/static/media/style_guide.699469cce4a5a130916b.png",
@@ -48,6 +49,7 @@
     "static/media/quizine_sketch.jpg": "/static/media/quizine_sketch.ddc0f8544fd62c045334.jpg",
     "static/media/slalom.png": "/static/media/slalom.5e7790e4eb921c9434cb.png",
     "static/media/quizine.png": "/static/media/quizine.88bc820b373ec198b7b4.png",
+    "static/media/passivebolt.png": "/static/media/passivebolt.06e5ef3510d6b0cabb6d.png",
     "static/media/me_home_page.png": "/static/media/me_home_page.ab565de777a4b223f946.png",
     "static/media/quizine_pages.jpg": "/static/media/quizine_pages.a97d88d5e6459169fdad.jpg",
     "static/media/empathymaps_phoemale.png": "/static/media/empathymaps_phoemale.39313cbf6fff3e1b6bfc.png",
@@ -75,11 +77,11 @@
     "static/media/keyboard_arrow_down.svg": "/static/media/keyboard_arrow_down.df271e840d0170f1e0b3a9f18bf15f42.svg",
     "index.html": "/index.html",
     "static/media/problem.svg": "/static/media/problem.d0a2ff6f6907d4e827161d9ea2d8b19e.svg",
-    "main.513f883b.css.map": "/static/css/main.513f883b.css.map",
-    "main.ea5b6e0b.js.map": "/static/js/main.ea5b6e0b.js.map"
+    "main.8fe95065.css.map": "/static/css/main.8fe95065.css.map",
+    "main.a07edf1b.js.map": "/static/js/main.a07edf1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.513f883b.css",
-    "static/js/main.ea5b6e0b.js"
+    "static/css/main.8fe95065.css",
+    "static/js/main.a07edf1b.js"
   ]
 }
