@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.83eabb30.css",
-    "main.js": "/static/js/main.573462bb.js",
+    "main.js": "/static/js/main.93d73871.js",
     "static/media/glansis_homepage.mov": "/static/media/glansis_homepage.c6061d7e16e0a196faaa.mov",
     "static/media/quizine_laptop.mov": "/static/media/quizine_laptop.3320306fb91db51e8cb8.mov",
     "static/media/cineats_prototype.mov": "/static/media/cineats_prototype.a226cc7f36a87464ec1e.mov",
@@ -29,12 +29,13 @@
     "static/media/lowfi_phoemale.png": "/static/media/lowfi_phoemale.9275dfc510c5a3e99efe.png",
     "static/media/cookge.png": "/static/media/cookge.b2dd2b2a0059bd7b3c4e.png",
     "static/media/posters.png": "/static/media/posters.e393aff41dc0cc47ba32.png",
+    "static/media/passivebolt.png": "/static/media/passivebolt.cddb04d7ee708fecd8aa.png",
     "static/media/phoemale_cover.png": "/static/media/phoemale_cover.08926824bdadb229657c.png",
     "static/media/nomiform.gif": "/static/media/nomiform.6fd38e66314e9f140c59.gif",
     "static/media/nomipage.png": "/static/media/nomipage.1393370c821df7686b5e.png",
     "static/media/me_about.png": "/static/media/me_about.36b299ccd2619b3ea742.png",
-    "static/media/new_resume.pdf": "/static/media/new_resume.64db0ca4d4b49baf8102.pdf",
     "static/media/cineats_lowfi.png": "/static/media/cineats_lowfi.0d133aea2a4f7212e5b4.png",
+    "static/media/new_resume.pdf": "/static/media/new_resume.f8225611d56f2fe8766f.pdf",
     "static/media/koinoike.png": "/static/media/koinoike.ad67bd7a47031cc307c6.png",
     "static/media/use1.png": "/static/media/use1.751644b764906da98dcd.png",
     "static/media/sketch_cineats.png": "/static/media/sketch_cineats.a232a09005747321ad42.png",
@@ -49,7 +50,6 @@
     "static/media/quizine_sketch.jpg": "/static/media/quizine_sketch.ddc0f8544fd62c045334.jpg",
     "static/media/slalom.png": "/static/media/slalom.5e7790e4eb921c9434cb.png",
     "static/media/quizine.png": "/static/media/quizine.88bc820b373ec198b7b4.png",
-    "static/media/passivebolt.png": "/static/media/passivebolt.06e5ef3510d6b0cabb6d.png",
     "static/media/me_home_page.png": "/static/media/me_home_page.ab565de777a4b223f946.png",
     "static/media/quizine_pages.jpg": "/static/media/quizine_pages.a97d88d5e6459169fdad.jpg",
     "static/media/empathymaps_phoemale.png": "/static/media/empathymaps_phoemale.39313cbf6fff3e1b6bfc.png",
@@ -78,10 +78,10 @@
     "index.html": "/index.html",
     "static/media/problem.svg": "/static/media/problem.d0a2ff6f6907d4e827161d9ea2d8b19e.svg",
     "main.83eabb30.css.map": "/static/css/main.83eabb30.css.map",
-    "main.573462bb.js.map": "/static/js/main.573462bb.js.map"
+    "main.93d73871.js.map": "/static/js/main.93d73871.js.map"
   },
   "entrypoints": [
     "static/css/main.83eabb30.css",
-    "static/js/main.573462bb.js"
+    "static/js/main.93d73871.js"
   ]
 }
