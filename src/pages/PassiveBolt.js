@@ -139,12 +139,12 @@ export default function PassiveBolt() {
                 </p>
                 <p className="body-regular light-black ">
                   Focused on uncovering user pain points and identifying
-                  opportunities for improvement, I am leading UX design efforts
-                  and managing the project. My responsibilities include ensuring
-                  a streamlined discovery and redesign process, overseeing
+                  opportunities for improvement, I led the UX design efforts and
+                  managed the project. My responsibilities included ensuring a
+                  streamlined discovery and redesign process, overseeing
                   timelines, managing stakeholder communication, and driving
-                  overall execution. My current work involves conducting user
-                  research, defining design strategies, creating wireframes and
+                  overall execution. My work involved conducting user research,
+                  defining design strategies, creating wireframes and
                   prototypes, and collaborating closely with PassiveBolt’s team
                   to align business goals with user needs.
                 </p>
@@ -159,11 +159,13 @@ export default function PassiveBolt() {
                   Details coming soon...
                 </h2>
                 <p className="h3-semibold margin-bottom-small align-center">
-                  We are currently in the ideation phase 🎉👩🏻‍💻
+                  We are currently in the implementation phase 🎉👩🏻‍💻
                 </p>
                 <p className="align-center dark-grey">
                   Feel free to contact me if you want to learn more about this
-                  project.
+                  project. The final designs are still under wraps due to an
+                  NDA, but they'll be ready to share once everything is
+                  officially released.
                 </p>
               </div>
             </div>
