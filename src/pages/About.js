@@ -36,7 +36,7 @@ export default function About() {
                   <strong className="maia-pink">
                     User Experience Designer
                   </strong>{" "}
-                  graduating from the University of Michigan in April 2025.
+                  who graduated from the University of Michigan.
                 </p>
 
                 <p
